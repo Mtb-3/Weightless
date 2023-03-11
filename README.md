@@ -1,5 +1,5 @@
 # Auto-Mod-Roller 
-Weightless is a widget that automatically rolls for desired mods. The mod rolling button only works in the cash currency tab. Once the roll for mod button is clicked there is a 3-second delay until the program starts. Choose the currecy you wish to use and hover over the item within the 3-second delay. The program will stop once the desired mod has been found. Hold "alt" to stop the program at any time. 
+Weightless is a widget that automatically rolls for desired mods. The mod rolling button only works in the cash currency tab. Once the roll for mod button is clicked there is a 3-second delay until the program starts. Choose the currecy you wish to use and hover over the item within the 3-second window. The program will stop once the desired mod has been found. Hold "alt" to stop the program at any time. 
 
 
 ## Installation 
