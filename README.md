@@ -5,7 +5,8 @@ Weightless is a widget that automatically rolls for desired mods. The mod rollin
 ## Installation 
 1. Click the green (code) button and download as zip. 
 2. Extract the contents to a file location of your choosing.
-3. Run Modroller.exe or python source file. 
+3. Choose the correct folder based on your resolution. 
+4. Run Modroller.exe or python source file. 
 
 
 ## Usage
